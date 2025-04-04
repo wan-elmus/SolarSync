@@ -13,3 +13,5 @@ pydantic
 langchain
 langgraph
 langchain-openai
+apscheduler
+twilio
